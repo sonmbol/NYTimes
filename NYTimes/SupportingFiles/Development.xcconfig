@@ -12,4 +12,4 @@
 BASE_URL = https:/$()/api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/
 
 //API Key
-API_KEY = 04ow9TNZmAzAolw2AKLb7dtMMKRjbPb5 // add your api key
+API_KEY =  // add your api key
